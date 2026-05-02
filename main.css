@@ -1,0 +1,80 @@
+.nav li a:hover{
+    color: rgb(254, 0, 0) !important;
+}
+.active{
+    color: rgb(254, 0, 0) !important;
+}
+.blog{
+    background: url(img/about.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 40px 40px;
+}
+.test{
+    text-align: center;
+    margin: 40px;
+    color: white;
+    font-size: 30px;
+}
+.blog-title{
+    font-size: 60px;
+}
+.about{
+    padding: 40px 40px;
+    margin: 50px 30px;
+}
+.about-text{
+    text-align: left;
+}
+.row-cols-md-3{
+    margin: 50px 30px;
+    
+}
+.room-text{
+    text-align: center;
+}
+.row-cols-md-4{
+    margin: 50px 30px;
+}
+.room{
+    background: rgb(244, 245, 247);
+}
+.lorem{
+    text-align: center;
+    padding-top: 40px;
+}
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.contact{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 40px 30px;
+}
+.form{
+    margin: 0 100px;
+}
+.form input{
+    padding: 5px 10px;
+    margin: 10px 0;
+    width: 500px;
+    box-shadow: 5px 5px 3px #a8a8a8;
+}
+.form textarea{
+    margin: 10px;
+    width: 500px;
+    padding: 5px 10px;
+    box-shadow: 5px 5px 3px #a8a8a8;
+}
+.send{
+    background: black !important;
+    border: 1px solid black;
+    padding: 15px 60px;
+    margin: 20px 30px;
+    border-radius: 30px;
+}
